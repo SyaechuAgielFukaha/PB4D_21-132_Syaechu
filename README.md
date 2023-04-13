@@ -1,1 +1,2 @@
 # PB4D_21-132_Syaechu
+Program diatas adalah program untuk implementasi intent implisit dan eksplisit. Pada output gambar pertama merupakan menu utama aplikasi, dengan berisi 2 button. Button pertama mengimplementasikan implicit intent, berisi mengenai apa yang bisa dilakukan pengguna dari aplikasi tersebut. Button kedua mengimplementasikan eksplicit intent. Output pada gambar 2 menunjukkan halaman implisit yang berisi tentang ponsel, gambar 3 menunjukkan halaman eksplisit yang menuju ke aplikasi telepon pengguna.
