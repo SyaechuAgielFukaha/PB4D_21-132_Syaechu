@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Modul2_nomer1</string>
+    <string name="judul">Daftar Pertandingan Klub BRI Liga 1 Indonesia</string>
+    <string name="text1">Jadwal Pertandingan 07 April 2023 Pada Pukul 20:30</string>
+    <string name="text2">Klasemen Peringkat Saat Ini</string>
+    <string name="coll1">Gambar</string>
+    <string name="coll2">Nama</string>
+    <string name="coll3">Total</string>
+    <string name="coll7">Poin</string>
+
+    <string name="ro1nama">PSM Makassar</string>
+    <string name="ro2nama">Persib Bandung</string>
+    <string name="ro3nama">Persija Jakarta</string>
+    <string name="ro4nama">Bali United</string>
+    <string name="ro5nama">Madura United</string>
+    <string name="ro6nama">Persebaya</string>
+    <string name="ro7nama">Arema FC</string>
+    <string name="ro8nama">PSIS</string>
+
+    <string name="ro1total">"32"</string>
+    <string name="ro2total">"32"</string>
+    <string name="ro3total">"32"</string>
+    <string name="ro4total">"32"</string>
+    <string name="ro5total">"32"</string>
+    <string name="ro6total">"32"</string>
+    <string name="ro7total">"32"</string>
+    <string name="ro8total">"32"</string>
+
+    <string name="ro1poin">"72"</string>
+    <string name="ro2poin">"62"</string>
+    <string name="ro3poin">"60"</string>
+    <string name="ro4poin">"51"</string>
+    <string name="ro5poin">"49"</string>
+    <string name="ro6poin">"45"</string>
+    <string name="ro7poin">"41"</string>
+    <string name="ro8poin">"38"</string>
+
+</resources>
