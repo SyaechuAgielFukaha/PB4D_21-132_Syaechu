@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/fileFragment">
+
+    <fragment
+        android:id="@+id/fileFragment"
+        android:name="com.example.modul5.FileFragment"
+        android:label="File Fragment"
+        tools:layout="@layout/fragment_file" />
+    <fragment
+        android:id="@+id/shareFragment"
+        android:name="com.example.modul5.ShareFragment"
+        android:label="Share Fragment"
+        tools:layout="@layout/fragment_share" />
+</navigation>
